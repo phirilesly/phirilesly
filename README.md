@@ -9,6 +9,20 @@
 Im a backend developer from Zimbabwe. I am interested in, write about, and develop (open source) software solutions
 using C#,Asp.net core, JavaScript, TypeScript, Angular, Rest APIs,GraphQL APIs ,GRPC API ,micro services and NodeJS
 
+### 💬 Ask me about ...
+1.Rest APIs(Asp.net core and Node.js)
+2.GrqphQL(Asp.net and Node.js)
+3.GRPC
+4.C#
+5.Javascrpipt
+6.Node.js
+
+## 📬 Get in touch
+-email me: skyboot0593@gmail.com
+-facebook: [facebook.com/leslyphiri]
+-twitter: [twitter.com/phirilesly]
+
+
 <!--
 **phirilesly/phirilesly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
