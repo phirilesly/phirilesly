@@ -10,17 +10,17 @@ Im a backend developer from Zimbabwe. I am interested in, write about, and devel
 using C#,Asp.net core, JavaScript, TypeScript, Angular, Rest APIs,GraphQL APIs ,GRPC API ,micro services and NodeJS
 
 ### 💬 Ask me about ...
-1.Rest APIs(Asp.net core and Node.js)
-2.GrqphQL(Asp.net and Node.js)
-3.GRPC
-4.C#
-5.Javascrpipt
-6.Node.js
+1.Rest APIs(Asp.net core and Node.js)[1]
+2.GrqphQL(Asp.net and Node.js)[2]
+3.GRPC[3]
+4.C#[4]
+5.Javascrpipt[5]
+6.Node.js[6]
 
 ## 📬 Get in touch
--email me: skyboot0593@gmail.com
--facebook: [facebook.com/leslyphiri]
--twitter: [twitter.com/phirilesly]
+-email me: skyboot0593@gmail.com[1]
+-facebook: [facebook.com/leslyphiri][2]
+-twitter: [twitter.com/phirilesly][3]
 
 
 <!--
