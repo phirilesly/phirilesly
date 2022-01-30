@@ -6,6 +6,9 @@
 
 ### Hi there 👋
 
+Im a backend developer from Zimbabwe. I am interested in, write about, and develop (open source) software solutions
+using C#,Asp.net core, JavaScript, TypeScript, Angular, Rest APIs,GraphQL APIs ,GRPC API ,micro services and NodeJS
+
 <!--
 **phirilesly/phirilesly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
