@@ -62,9 +62,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
           <a href="https://go.dev/">
           <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
         </a>
-        <a href="https://www.php.net/">
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-        </a>
         <a href="https://www.typescriptlang.org/">
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
         </a>
@@ -87,18 +84,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
         <a href="https://tailwindcss.com/">
           <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
         </a>
-        <a href="https://laravel.com/">
-          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-        </a>
         <a href="https://nodejs.org/">
           <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
         </a>
         <a href="https://angular.io/">
           <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-        </a>
-        <a href="https://www.apollographql.com/">
-          <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white">
-        </a>
+         </a>
         <a href="https://expressjs.com/">
           <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
         </p>
