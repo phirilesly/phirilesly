@@ -1,6 +1,3 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> i'm [Lesly Sky3oot Phiri](https://wa.me/+263777838334), Results-oriented Software Engineer and Mobile app developer with 3+ years experience developing, testing, and maintaining enterprise software application
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=phirilesly&show_icons=true&theme=gotham" alt="phirilesly" />
